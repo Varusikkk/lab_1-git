@@ -1,1 +1,2 @@
 Hello from person1
+New info from person2
