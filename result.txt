@@ -1,0 +1,2 @@
+Сахарова: result = 'variant_B'
+Сахарова: result = 'variant_B'
